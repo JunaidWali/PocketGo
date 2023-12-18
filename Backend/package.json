@@ -1,0 +1,21 @@
+{
+  "name": "pocket-go-backend",
+  "version": "0.0.1",
+  "description": "PoecketGo Backend",
+  "author": "Junaid Wali Khan",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
+  },
+  "keywords": [
+    "pocket-go-backend"
+  ],
+  "license": "ISC"
+}
